@@ -10,6 +10,10 @@ namespace EntityFrameworkDemo
 
         public DbSet<Productos> Productos { get; set; }
 
+        public DbSet<ProductoVendido> ProductoVendido { get; set; }
+
+        public DbSet<Venta> Venta { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             try

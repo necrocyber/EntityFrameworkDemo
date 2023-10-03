@@ -1,17 +1,12 @@
 ﻿<Properties StartupConfiguration="{AF4890D1-AFCD-4AA2-8949-11C300592EF1}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.EntityFrameworkDemo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="EntityFrameworkDemo/querys/ProductoData.cs">
     <Files>
-      <File FileName="EntityFrameworkDemo/Program.cs" Line="47" Column="1" />
-      <File FileName="EntityFrameworkDemo/ConectionContext.cs" Line="25" Column="1" />
-      <File FileName="EntityFrameworkDemo/querys/UsuarioData.cs" Line="62" Column="43" />
-      <File FileName="EntityFrameworkDemo/modelos/Usuarios.cs" Line="3" Column="2" />
-      <File FileName="EntityFrameworkDemo/modelos/Productos.cs" Line="4" Column="24" />
+      <File FileName="EntityFrameworkDemo/Program.cs" />
+      <File FileName="EntityFrameworkDemo/ConectionContext.cs" />
+      <File FileName="EntityFrameworkDemo/querys/UsuarioData.cs" />
+      <File FileName="EntityFrameworkDemo/modelos/Usuarios.cs" />
+      <File FileName="EntityFrameworkDemo/modelos/Productos.cs" />
       <File FileName="EntityFrameworkDemo/querys/ProductoData.cs" Line="13" Column="2" />
     </Files>
     <Pads>
@@ -29,5 +24,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EntityFrameworkDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
